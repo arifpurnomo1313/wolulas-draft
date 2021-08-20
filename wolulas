@@ -1,0 +1,345 @@
+{
+  "pc": "modtruk.wahyuabadiseven",
+  "version_app": "1.0",
+  "link_new_app": "null",
+  "name_godev": "Star+Mod",
+  "interval_inter": 2,
+  "admob": [
+    {
+      "banner": "ca-app-pub-3940256099942544/6300978111",
+      "inter":  "ca-app-pub-3940256099942544/1033173712",
+      "native": "ca-app-pub-3940256099942544/2247696110"
+    }
+  ],
+  "applovin": [
+    {
+      "banner": "",
+      "inter": "",
+      "mrec": ""
+    }
+  ],
+  "list_mod": [
+    {
+      "id": "1",
+      "tittle": "Wahyu Abadi M18",
+      "link_file": "https://archive.org/download/wahyu-abadi-m-18_20210817_1016/wahyu%20abadi%20m18.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "https://ia801505.us.archive.org/11/items/new-wahyu-abadi-m-18-by-afra-apps/NEW%20WAHYU%20ABADI%20M18%20by%20afra%20apps.png",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://ia801406.us.archive.org/20/items/wa-m-18_20210817/wa%20m18.png"   
+    },
+	
+    {
+      "id": "2",
+      "tittle": "Wahyu Abadi Interior Racing",
+      "link_file": "https://archive.org/download/interior-racing-afra-app_202108/interior%20racing%20afra%20app.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "https://ia601506.us.archive.org/9/items/livery-whyu-abadi-interior-racing-afra-app_202108/LIVERY%20WHYU%20ABADI%20interior%20racing%20afra%20app.png",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://ia601408.us.archive.org/1/items/interior-racing-2/interior%20racing%202.png"      
+    },
+	
+	{
+      "id": "3",
+      "tittle": "bajindul telu",
+      "link_file": "https://archive.org/download/interior-racing-afra-app_202108/interior%20racing%20afra%20app.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "https://ia601506.us.archive.org/9/items/livery-whyu-abadi-interior-racing-afra-app_202108/LIVERY%20WHYU%20ABADI%20interior%20racing%20afra%20app.png",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://ia601408.us.archive.org/1/items/interior-racing-2/interior%20racing%202.png"      
+    },
+	
+	{
+      "id": "4",
+      "tittle": "papat",
+      "link_file": "https://archive.org/download/interior-racing-afra-app_202108/interior%20racing%20afra%20app.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "https://ia601506.us.archive.org/9/items/livery-whyu-abadi-interior-racing-afra-app_202108/LIVERY%20WHYU%20ABADI%20interior%20racing%20afra%20app.png",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://ia601408.us.archive.org/1/items/interior-racing-2/interior%20racing%202.png"      
+    },
+	
+	{
+      "id": "5",
+      "tittle": "limolimo",
+      "link_file": "https://archive.org/download/interior-racing-afra-app_202108/interior%20racing%20afra%20app.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "https://ia601506.us.archive.org/9/items/livery-whyu-abadi-interior-racing-afra-app_202108/LIVERY%20WHYU%20ABADI%20interior%20racing%20afra%20app.png",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://ia601408.us.archive.org/1/items/interior-racing-2/interior%20racing%202.png"      
+    },
+	
+	{
+      "id": "6",
+      "tittle": "enam",
+      "link_file": "https://archive.org/download/interior-racing-afra-app_202108/interior%20racing%20afra%20app.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "https://ia601506.us.archive.org/9/items/livery-whyu-abadi-interior-racing-afra-app_202108/LIVERY%20WHYU%20ABADI%20interior%20racing%20afra%20app.png",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://ia601408.us.archive.org/1/items/interior-racing-2/interior%20racing%202.png"      
+    },
+	
+	{
+      "id": "7",
+      "tittle": "tujuh",
+      "link_file": "https://archive.org/download/interior-racing-afra-app_202108/interior%20racing%20afra%20app.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "https://ia601506.us.archive.org/9/items/livery-whyu-abadi-interior-racing-afra-app_202108/LIVERY%20WHYU%20ABADI%20interior%20racing%20afra%20app.png",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://ia601408.us.archive.org/1/items/interior-racing-2/interior%20racing%202.png"      
+    },
+	
+	{
+      "id": "8",
+      "tittle": "delapan",
+      "link_file": "https://archive.org/download/interior-racing-afra-app_202108/interior%20racing%20afra%20app.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "https://ia601506.us.archive.org/9/items/livery-whyu-abadi-interior-racing-afra-app_202108/LIVERY%20WHYU%20ABADI%20interior%20racing%20afra%20app.png",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://ia601408.us.archive.org/1/items/interior-racing-2/interior%20racing%202.png"      
+    },
+	
+	{
+      "id": "9",
+      "tittle": "songo",
+      "link_file": "https://archive.org/download/interior-racing-afra-app_202108/interior%20racing%20afra%20app.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "https://ia601506.us.archive.org/9/items/livery-whyu-abadi-interior-racing-afra-app_202108/LIVERY%20WHYU%20ABADI%20interior%20racing%20afra%20app.png",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://ia601408.us.archive.org/1/items/interior-racing-2/interior%20racing%202.png"      
+    },
+	
+	{
+      "id": "10",
+      "tittle": "sepuluh",
+      "link_file": "https://archive.org/download/interior-racing-afra-app_202108/interior%20racing%20afra%20app.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "https://ia601506.us.archive.org/9/items/livery-whyu-abadi-interior-racing-afra-app_202108/LIVERY%20WHYU%20ABADI%20interior%20racing%20afra%20app.png",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://ia601408.us.archive.org/1/items/interior-racing-2/interior%20racing%202.png"      
+    },
+	
+	{
+      "id": "11",
+      "tittle": "sewelas",
+      "link_file": "https://archive.org/download/interior-racing-afra-app_202108/interior%20racing%20afra%20app.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "https://ia601506.us.archive.org/9/items/livery-whyu-abadi-interior-racing-afra-app_202108/LIVERY%20WHYU%20ABADI%20interior%20racing%20afra%20app.png",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://ia601408.us.archive.org/1/items/interior-racing-2/interior%20racing%202.png"      
+    },
+		
+	{
+      "id": "12",
+      "tittle": "rolas",
+      "link_file": "https://archive.org/download/interior-racing-afra-app_202108/interior%20racing%20afra%20app.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "https://ia601506.us.archive.org/9/items/livery-whyu-abadi-interior-racing-afra-app_202108/LIVERY%20WHYU%20ABADI%20interior%20racing%20afra%20app.png",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://ia601408.us.archive.org/1/items/interior-racing-2/interior%20racing%202.png"      
+    },
+	
+	{
+      "id": "13",
+      "tittle": "telulas",
+      "link_file": "https://archive.org/download/interior-racing-afra-app_202108/interior%20racing%20afra%20app.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "https://ia601506.us.archive.org/9/items/livery-whyu-abadi-interior-racing-afra-app_202108/LIVERY%20WHYU%20ABADI%20interior%20racing%20afra%20app.png",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://ia601408.us.archive.org/1/items/interior-racing-2/interior%20racing%202.png"      
+    },
+	
+	{
+      "id": "14",
+      "tittle": "papatbelas",
+      "link_file": "https://archive.org/download/interior-racing-afra-app_202108/interior%20racing%20afra%20app.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "https://ia601506.us.archive.org/9/items/livery-whyu-abadi-interior-racing-afra-app_202108/LIVERY%20WHYU%20ABADI%20interior%20racing%20afra%20app.png",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://ia601408.us.archive.org/1/items/interior-racing-2/interior%20racing%202.png"      
+    },
+	
+	{
+      "id": "15",
+      "tittle": "limobelas",
+      "link_file": "https://archive.org/download/interior-racing-afra-app_202108/interior%20racing%20afra%20app.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "https://ia601506.us.archive.org/9/items/livery-whyu-abadi-interior-racing-afra-app_202108/LIVERY%20WHYU%20ABADI%20interior%20racing%20afra%20app.png",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://ia601408.us.archive.org/1/items/interior-racing-2/interior%20racing%202.png"      
+    },
+	
+	{
+      "id": "16",
+      "tittle": "enambelas",
+      "link_file": "https://archive.org/download/interior-racing-afra-app_202108/interior%20racing%20afra%20app.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "https://ia601506.us.archive.org/9/items/livery-whyu-abadi-interior-racing-afra-app_202108/LIVERY%20WHYU%20ABADI%20interior%20racing%20afra%20app.png",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://ia601408.us.archive.org/1/items/interior-racing-2/interior%20racing%202.png"      
+    },
+	
+	{
+      "id": "17",
+      "tittle": "pitulasaaaaa",
+      "link_file": "https://archive.org/download/interior-racing-afra-app_202108/interior%20racing%20afra%20app.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "https://ia601506.us.archive.org/9/items/livery-whyu-abadi-interior-racing-afra-app_202108/LIVERY%20WHYU%20ABADI%20interior%20racing%20afra%20app.png",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://ia601408.us.archive.org/1/items/interior-racing-2/interior%20racing%202.png"      
+    },
+    {
+      "id": "18",
+      "tittle": "Wahyu Abadi BK1BK4",
+      "link_file": "https://archive.org/download/b-1-bk-4-terpal-kotak_202108/B1Bk4%20Terpal%20Kotak.bussidmod",
+      "link_busidgayor": "https://archive.org/download/canter-gayor-edit-bemper-blakang_202108/canter%20gayor%20edit%20bemper%20blakang.bussidmod",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "https://archive.org/download/b-1-bk-4-terpal-cincing_202108/B1Bk4%20Terpal%20Cincing.bussidmod", 
+     
+      
+      "link_liverykotak": "https://ia601400.us.archive.org/23/items/wahyu-abadi-by-afra-app_20210817_1120/Wahyu%20Abadi%20By%20afra%20app.png",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://ia601409.us.archive.org/19/items/bk-1bk-4-2/bk1bk4%202.png"      
+    }
+  ]
+}
